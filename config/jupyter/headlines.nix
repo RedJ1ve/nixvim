@@ -1,0 +1,3 @@
+{
+  plugins.headlines.enable = true;
+}
